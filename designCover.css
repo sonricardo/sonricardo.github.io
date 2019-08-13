@@ -1,0 +1,33 @@
+#imageCover{
+    width:100%;
+    height:320;
+    align-content: center;
+}
+#imageFooter{
+    width:100%;
+    align-content: center;
+    height:100px;
+    padding-top: 20px;
+}
+#menu{
+    width: 100%;
+    align-content: center;
+}
+.buttonMenu{
+    background-color: darkgreen;
+    color: aliceblue;
+    font-size: 1.2em;
+    height:50px;
+    width: 19.5%;
+}
+#textFinal{
+    font-size: 12px;
+    color:gray;
+    text-align: end;
+}
+iframe{
+    width: 100%;
+    display: block;
+    border: none;
+    height: 140vh;
+}
