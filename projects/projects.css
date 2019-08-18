@@ -1,0 +1,38 @@
+/* select all elements  */
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+iframe{
+    width: 100%;
+    display: block;
+    border: none;
+    height: 300px;
+    margin: 10px;
+}
+body{
+    background-color: black;
+}
+.header{
+    width: 100%;
+    height: 180px;
+    background:#4399c5;  /* works with elements like div. just background  */
+    color: white;
+    font-size: 30px; 
+    padding: 40px;
+    font-family: 'Titillium Web', sans-serif;
+    padding-left: 40%
+    
+    
+    
+}
+.text_header{
+    text-align: center;
+    float: left;
+
+}
+.logo_header{
+  
+}
