@@ -59,6 +59,7 @@
     width: 100px;
     background: rgb(49, 50, 53);
     padding-top: 120px;
+    box-sizing: border-box;
     
 
 }
@@ -67,8 +68,8 @@ h2{
     letter-spacing: 3px;
     transform: rotate(-90deg);
     text-align: center;
-    vertical-align: middle;
-    font-size: 3em;
+   
+    font-size: 2em;
     color: white;
     
 }
