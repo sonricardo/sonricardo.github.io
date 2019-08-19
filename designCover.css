@@ -19,6 +19,7 @@
     font-size: 1.2em;
     height:50px;
     width: 19.5%;
+    float: left;
 }
 #textFinal{
     font-size: 12px;
