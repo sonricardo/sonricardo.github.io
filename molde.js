@@ -9,7 +9,7 @@ var btnContact = document.getElementById("btnContact");
 var article = document.getElementById("article");
 
 btnAbout.addEventListener("click",clickAbout);
-btnProjects.addEventListener("click",clickProjects);
+
 btnBlogs.addEventListener("click",clickBlogs);
 btnRubik.addEventListener("click",clickRubik);
 btnContact.addEventListener("click",clickContact);
