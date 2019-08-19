@@ -1,46 +1,82 @@
+@import "bourbon";
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
 *{
     margin: 0;
     padding: 0;
     list-style: none;
     text-decoration: none;
 }
-.conteiner{
+.container{
     background: white;
+    display: block;
+    height: 300px;
+    /*border: 8px solid grey;*/
+    
     
 }
 
-#text {
-    padding: 5px;
+#text_block {
+    
     font-family: 'Titillium Web', sans-serif;
    
-    float:left; 
-}
-#projectName {
-    font-size: 5em; 
+    
+    position: fixed;
+    bottom: 0px;
+    padding: 20px;
+    
 }
 
+
 #resumeProject {
-    text-align: center;
+    text-align: start;
     font-size: 3em;
+   
      
 }
 
-#date {
+
+#first_part{
+    
+    width: 550px;
+    
+    height: 100%;
+    float:left;
+}
+
+#image_wiicoon {
+    width: 500px;
+    position: fixed;
+    left: 30px;
+    top: 30px;
+    
     
 }
 
+#date_part{
+    float: right;
+    height: 300px;
+    width: 100px;
+    background: rgb(49, 50, 53);
+    padding-top: 120px;
+    
 
-#image_wiicoon {
-    max-width:10%;
-    max-height:10%;
-    float:left;
-    padding: 10px;
+}
+
+h2{
+    letter-spacing: 3px;
+    transform: rotate(-90deg);
+    text-align: center;
+    vertical-align: middle;
+    font-size: 3em;
+    color: white;
+    
 }
 
 #gif_wiicoon {
-    max-width:100%;
-    max-height:100%;
-    margin-block-end: 5px;
-    
-   
+    height: 300px;
+    float: right;  
 }
+
+
+
