@@ -1,0 +1,28 @@
+*{
+    background: rgb(22, 22, 22);
+    color: aliceblue;
+}
+#luisyric{
+    float: left;
+    width: 50%;
+    height: 50%;   
+    padding-right: 10pt;
+}
+p{
+    font-size: 1.5em;
+}
+h1{
+    text-align: center;
+}
+#logo{
+    float: right;
+    width: 40%;
+    height: 40%;   
+    padding-left: 10pt;
+}
+a{
+    color: blue;
+}
+ul{
+    font-size: 1.5em;
+}
