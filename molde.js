@@ -25,7 +25,7 @@ function clickProjects(){
     loadArticle();
 }
 function clickBlogs(){
-    link = "blogs/manMoon50th/manMoon50th.html";
+    link = "blogs/listBlogs.html";
     loadArticle();
 }
 function clickRubik(){
